@@ -1,0 +1,11 @@
+{
+  "name": "docker-qqbot",
+  "version": "1.0.0",
+  "description": "docker for qqbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lotosbin <lotosbin@gmail.com>",
+  "license": "MIT"
+}
