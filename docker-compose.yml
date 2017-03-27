@@ -1,0 +1,7 @@
+version: '2'
+services: 
+  host:
+    build: . 
+    ports:
+      - "3100:3100"
+      - "3200:3200"
